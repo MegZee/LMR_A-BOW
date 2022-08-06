@@ -1,6 +1,6 @@
 # LMR_A-BOW
 
-The Algorithm of the Feature Selection approach has not been publicly abailable "yet", as it is tied to another ongoing research study.
+The Algorithm of the Feature Selection approach has not been publicly available "yet", as it is tied to another ongoing research study.
 Hwoever, the output of the algorithm is provided in the link below 
 
 (Note: these are not the original datasets, these are the datasets after applying the A-bow algorithm)
